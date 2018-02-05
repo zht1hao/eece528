@@ -1,0 +1,119 @@
+assignment 1:
+total 2816
+-rw-r--r--@ 1 lemieux  users    2215 28 Nov 14:26 assign1-eece528a2-src copy.zip
+-rw-r--r--@ 1 lemieux  users    2188 22 Nov 16:50 assign1-eece528a2-src.zip
+-rw-r--r--@ 1 lemieux  users   19462  6 Oct 01:15 assign1-eece528a3-src.zip
+-rw-r--r--@ 1 lemieux  users   18979 30 Nov 00:41 assign1-eece528a7.zip
+-rw-r--r--@ 1 lemieux  users   34798 27 Nov 20:11 assign1-eece528a8-src.zip
+-rw-r--r--@ 1 lemieux  users    4732 22 Nov 21:17 assign1-eece528b0-src.zip
+-rw-r--r--@ 1 lemieux  users    3449 29 Nov 21:08 assign1-eece528b1-src copy.zip
+-rw-r--r--@ 1 lemieux  users    2340 13 Nov 23:32 assign1-eece528b1-src.zip
+-rw-r--r--@ 1 lemieux  users   41969 29 Nov 16:45 assign1-eece528b4-src.zip
+-rw-r--r--@ 1 lemieux  users    1894 28 Nov 20:04 assign1-eece528b6-src.zip
+-rw-r--r--@ 1 lemieux  users    6618 14 Nov 00:12 assign1-eece528b7-src.zip
+-rw-r--r--@ 1 lemieux  users    3784 23 Nov 16:28 assign1-eece528b8-src.zip
+-rw-r--r--@ 1 lemieux  users    3205 19 Nov 20:24 assign1-eece528c0-src.zip
+-rw-r--r--@ 1 lemieux  users    2607 26 Nov 11:43 assign1-eece528c1-src.zip
+-rw-r--r--@ 1 lemieux  users  134325 29 Nov 18:44 assign1-eece528c2-src.zip
+-rw-r--r--@ 1 lemieux  users   12379 15 Nov 10:34 assign1-eece528c5-src.zip
+-rw-r--r--@ 1 lemieux  users    3561 28 Nov 23:10 assign1-eece528c7-src copy.zip
+-rw-r--r--@ 1 lemieux  users    2869 17 Nov 02:11 assign1-eece528c7-src.zip
+-rw-r--r--@ 1 lemieux  users  621739 14 Nov 01:59 assign1-eece528c9-src.zip
+-rw-r--r--@ 1 lemieux  users  485203 29 Nov 18:45 assign1-eece528c9.zip
+
+assignment 2:
+total 1232
+-rw-r--r--@ 1 lemieux  users    1613 28 Nov 14:49 assign2-eece528a2-src copy.zip
+-rw-r--r--@ 1 lemieux  users    1608 22 Nov 21:11 assign2-eece528a2-src.zip
+-rw-r--r--@ 1 lemieux  users    2608  1 Dec 15:44 assign2-eece528a3-src.zip
+-rw-r--r--@ 1 lemieux  users    7339 30 Nov 16:14 assign2-eece528a7_src.zip
+-rw-r--r--@ 1 lemieux  users    4063 28 Nov 15:51 assign2-eece528a8-src.zip
+-rw-r--r--@ 1 lemieux  users    3647 22 Nov 21:19 assign2-eece528b0-src.zip
+-rw-r--r--@ 1 lemieux  users    1762  1 Dec 21:29 assign2-eece528b1-src.zip
+-rw-r--r--@ 1 lemieux  users   47853  2 Dec 11:09 assign2-eece528b4-src.zip
+-rw-r--r--@ 1 lemieux  users    1031 28 Nov 20:03 assign2-eece528b6-src.zip
+-rw-r--r--@ 1 lemieux  users    7678 14 Nov 00:14 assign2-eece528b7-src.zip
+-rw-r--r--@ 1 lemieux  users    1790 23 Nov 17:34 assign2-eece528b8-src.zip
+-rw-r--r--@ 1 lemieux  users    1883 22 Nov 19:02 assign2-eece528c0-src.zip
+-rw-r--r--@ 1 lemieux  users    2682 26 Nov 11:43 assign2-eece528c1-src.zip
+-rw-r--r--@ 1 lemieux  users   62429 30 Nov 12:46 assign2-eece528c2-src.zip
+-rw-r--r--@ 1 lemieux  users    3454 25 Nov 23:37 assign2-eece528c5-src.zip
+-rw-r--r--@ 1 lemieux  users    3906 30 Nov 00:24 assign2-eece528c7-src.zip
+-rw-r--r--@ 1 lemieux  users  448267 30 Nov 19:56 assign2-eece528c9.zip
+
+assignment 3:
+total 5096
+-rw-r--r--@ 1 lemieux  users     1431 23 Nov 15:37 assign3-eece528a2-src.zip
+-rw-r--r--@ 1 lemieux  users     1600  1 Dec 20:53 assign3-eece528a3-src copy.zip
+-rw-r--r--@ 1 lemieux  users     2524 25 Nov 17:08 assign3-eece528a3-src.zip
+-rw-r--r--@ 1 lemieux  users   154260  2 Dec 05:44 assign3-eece528a7_src.zip
+-rw-r--r--@ 1 lemieux  users   478241 29 Nov 19:09 assign3-eece528a8-src.zip
+-rw-r--r--@ 1 lemieux  users   155456  1 Dec 21:28 assign3-eece528b1-src.zip
+-rw-r--r--@ 1 lemieux  users     3466  2 Dec 11:13 assign3-eece528b4-src.zip
+-rw-r--r--@ 1 lemieux  users      896  1 Dec 18:22 assign3-eece528b6-src.zip
+-rw-r--r--@ 1 lemieux  users     4384 22 Nov 22:15 assign3-eece528b7-src.zip
+-rw-r--r--@ 1 lemieux  users     1516 27 Nov 20:58 assign3-eece528b8-src copy.zip
+-rw-r--r--@ 1 lemieux  users     2428 24 Nov 10:49 assign3-eece528b8-src.zip
+-rw-r--r--@ 1 lemieux  users     1933 25 Nov 15:15 assign3-eece528c0-src.zip
+-rw-r--r--@ 1 lemieux  users     3195 27 Nov 20:30 assign3-eece528c1-src.zip
+-rw-r--r--@ 1 lemieux  users  1169721 30 Nov 17:39 assign3-eece528c2-src.zip
+-rw-r--r--@ 1 lemieux  users     1963 25 Nov 23:37 assign3-eece528c5-src.zip
+-rw-r--r--@ 1 lemieux  users     2161  1 Dec 20:52 assign3-eece528c7-src.zip
+-rw-r--r--@ 1 lemieux  users   590502  1 Dec 23:46 assign3-eece528c9.zip
+
+assignment 4:
+total 211464
+-rw-r--r--@ 1 lemieux  users   2884383 25 Nov 13:07 assign4-eece528a2-src.zip
+-rw-r--r--@ 1 lemieux  users      1968  2 Dec 23:49 assign4-eece528a3-src.zip
+-rw-r--r--@ 1 lemieux  users     65262  3 Dec 00:48 assign4-eece528a7_src.zip
+-rw-r--r--@ 1 lemieux  users      1718  1 Dec 11:17 assign4-eece528a8-src.zip
+-rw-r--r--@ 1 lemieux  users   2689157  1 Dec 21:17 assign4-eece528b0-src.zip
+-rw-r--r--@ 1 lemieux  users   2981807  2 Dec 21:18 assign4-eece528b1-src.zip
+-rw-r--r--@ 1 lemieux  users  16145144  2 Dec 23:03 assign4-eece528b4-src.zip
+-rw-r--r--@ 1 lemieux  users   2834653  2 Dec 16:20 assign4-eece528b6-src.zip
+-rw-r--r--@ 1 lemieux  users      4184 24 Nov 18:47 assign4-eece528b7-src.zip
+-rw-r--r--@ 1 lemieux  users   2782980  1 Dec 23:40 assign4-eece528b8-src.zip
+-rw-r--r--@ 1 lemieux  users   3110198 30 Nov 14:41 assign4-eece528c0-src.zip
+-rw-r--r--@ 1 lemieux  users      2792  3 Dec 18:15 assign4-eece528c1-src.zip
+-rw-r--r--@ 1 lemieux  users  32649740  2 Dec 12:48 assign4-eece528c2-src.zip
+-rw-r--r--@ 1 lemieux  users  21178306  2 Dec 19:35 assign4-eece528c5-src.zip
+-rw-r--r--@ 1 lemieux  users      1749  2 Dec 23:49 assign4-eece528c7-src.zip
+-rw-r--r--@ 1 lemieux  users  20900509  2 Dec 23:44 assign4-eece528c9.zip
+
+assignment 5:
+total 3264
+-rw-r--r--@ 1 lemieux  users  957694  3 Mar  2017 assign5-eece528XX-src.zip
+-rw-r--r--@ 1 lemieux  users  300993  3 Dec 22:20 assign5-eece528a2-report.pdf
+-rw-r--r--@ 1 lemieux  users    1288  3 Dec 22:20 assign5-eece528a2-src.zip
+-rw-r--r--@ 1 lemieux  users  405259  3 Dec 22:06 assign5-eece528c9.zip
+
+project:
+total 68672
+-rw-r--r--@ 1 lemieux  users    821267  3 Dec 23:18 project-eece528a2-report.pdf
+-rw-r--r--@ 1 lemieux  users     10781  3 Dec 22:29 project-eece528a2-src.zip
+-rw-r--r--@ 1 lemieux  users    729470  4 Dec 18:33 project-eece528a3-report.pdf
+-rw-r--r--@ 1 lemieux  users      9378  4 Dec 15:54 project-eece528a3-src.zip
+-rw-r--r--@ 1 lemieux  users    402712  2 Dec 17:11 project-eece528a8-report.pdf
+-rw-r--r--@ 1 lemieux  users   1949632  2 Dec 17:11 project-eece528a8-src.zip
+-rw-r--r--@ 1 lemieux  users   1028201  3 Dec 23:49 project-eece528b0-report.pdf
+-rw-r--r--@ 1 lemieux  users   2046961  3 Dec 23:47 project-eece528b0-src.zip
+-rw-r--r--@ 1 lemieux  users    562784  4 Dec 08:50 project-eece528b1-report.pdf
+-rw-r--r--@ 1 lemieux  users      7819  4 Dec 07:59 project-eece528b1-src.zip
+-rw-r--r--@ 1 lemieux  users   5020521  7 Dec 11:03 project-eece528b4-FinalProjectSubmission.zip
+-rw-r--r--@ 1 lemieux  users    859038  4 Dec 00:13 project-eece528b6-report.pdf
+-rw-r--r--@ 1 lemieux  users  10163904  4 Dec 00:14 project-eece528b6-src.zip
+-rw-r--r--@ 1 lemieux  users   1394553  2 Dec 17:57 project-eece528b7-report.pdf
+-rw-r--r--@ 1 lemieux  users     16194  2 Dec 16:53 project-eece528b7-src.zip
+-rw-r--r--@ 1 lemieux  users    958127  4 Dec 23:09 project-eece528b8-report.pdf
+-rw-r--r--@ 1 lemieux  users      5536  4 Dec 18:12 project-eece528b8-src.zip
+-rw-r--r--@ 1 lemieux  users    386475  3 Dec 23:28 project-eece528c0-report.pdf
+-rw-r--r--@ 1 lemieux  users    383100  3 Dec 13:06 project-eece528c0-src.zip
+-rw-r--r--@ 1 lemieux  users    477882  4 Dec 02:28 project-eece528c1-src.zip
+-rw-r--r--@ 1 lemieux  users   3366574  4 Dec 01:00 project-eece528c2-src.zip
+-rw-r--r--@ 1 lemieux  users    190789  4 Dec 00:56 project-eece528c2.pdf
+-rw-r--r--@ 1 lemieux  users    562784  4 Dec 08:50 project-eece528c3-report.pdf
+-rw-r--r--@ 1 lemieux  users     11892  4 Dec 08:53 project-eece528c3-src.zip
+-rw-r--r--@ 1 lemieux  users    413782  4 Dec 01:46 project-eece528c5-report.pdf
+-rw-r--r--@ 1 lemieux  users   2695238  4 Dec 02:01 project-eece528c5-src.zip
+-rw-r--r--@ 1 lemieux  users    626679  6 Dec 02:36 project-eece528c7-report.pdf
+-rw-r--r--@ 1 lemieux  users      8179  4 Dec 21:09 project-eece528c7-src.zip

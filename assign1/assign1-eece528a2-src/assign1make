@@ -1,0 +1,2 @@
+assign1:assign1.c
+	gcc -o assign1 -O2 -free -ftree-vectorize -m64 -march=broadwell -mtune=intel assign1.c

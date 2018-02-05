@@ -1,0 +1,4 @@
+gcc -mavx -O3 sequential_guassian_elimination.c -DDATA_TYPE_SELECTED=1 -DMATRIX_SIZE=4096 -o seq_out
+./seq_out
+mpicc -o mpi -O3 -DMATRIX_SIZE=4096 -DDATA_TYPE_SELECTED=1 guassian_elimination_algorithm_final_submission.c
+mpirun -np 32 ./mpi
