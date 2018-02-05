@@ -1,4 +1,4 @@
-all: test_gen baseline cudaV 
+all: test_gen baseline cudaV Pthreads
 	@echo ===================================================================
 	@echo  This is Haotians part of the group work
 	@echo	including a base case, a cuda version and a test case generator.
@@ -16,7 +16,8 @@ baseline:
 	nvcc ./Haotian_base.cu -o ./baseline_cuda
 cudaV:
 	nvcc ./Haotian_cuda.cu -O3  -o ./cudaV
-	
+Pthreads:
+	gcc project_pthread.c -lpthread -O2 -o GEP	
 clean:
 	rm -f test_gen
 	rm -f bdd_test.txt
